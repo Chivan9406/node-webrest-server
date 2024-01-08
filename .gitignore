@@ -3,3 +3,4 @@ keys/
 .env
 .idea
 dist/
+/postgres/
